@@ -3,7 +3,6 @@
 
   &#xa0;
 
-  <!-- <a href="https://s7pacmenfactory.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">S7 PacMen Factory</h1>
@@ -17,24 +16,21 @@
 
   <img alt="License" src="https://img.shields.io/github/license/sebastianzr13/s7-pacmen-factory?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/sebastianzr13/s7-pacmen-factory?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/sebastianzr13/s7-pacmen-factory?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/sebastianzr13/s7-pacmen-factory?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <h4 align="center"> 
-	🚧  S7 PacMen Factory 🚀 Under construction...  🚧
+	🚧  Under construction...  🚧
 </h4> 
+
 
 <hr> 
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#rocket-roadmap">Roadmap</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -49,12 +45,17 @@ Web page that produces a new PacMan at random direction and velocity when button
 
 Goal: Manipulating the DOM and using JavaScript to dynamically display data on a web page.
 
-## :rocket: Technologies ##
+## :rocket: Roadmap ##
+
+- Each PacMan will vary its sizes by increasing/decreasing it 
+- Each PacMan will show a fading line with the path they followed across the screen
+
+## :sparkles: Technologies ##
 
 The following tools were used in this project:
 
 - [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-- [HTML](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 
 ## :white_check_mark: Requirements ##
 
